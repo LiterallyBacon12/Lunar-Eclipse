@@ -27,3 +27,7 @@
 - [ ? ] Free VERSION has dropped.
 
 # Creditenials - v1.02
+Azure12 - Developing of some useless generators, randomly fixing the fucking logger bug.
+Awhxvi - Developing of UI Changes & Configuration and made both NUKER & ACCOUNT CONTROLLER.
+LiterallyBacon12 - Supposed Founder of the Lunar Eclipse, Called Sytx-Interface was changed to lunar eclipse upon Azure's request he made the orginal Lunar Eclipse now it's gone.
+SkyGamer90867 - Created very cool scripts and most of scripts are owned by him shoutout to this guy.
