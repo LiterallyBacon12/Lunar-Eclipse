@@ -1,7 +1,9 @@
 # Lunar Eclipse - v1.02
 ```
 【 - Message from Developers - 】
-Hello, As you're reading this we kindly suggest you to use this multi tool at your own risk, The supposed category "Multi Tool hack" is used at your own risk so once you commit something with this tool we aren't taking actions, You're going to be at your own and we would be able to help, It's best to use other tools rather than this. You can use it and no one will stop you but beware, You're on your own.
+Hello, As you're reading this we kindly suggest you to use this multi tool at your own risk,
+The supposed category "Multi Tool hack" is used at your own risk so once you commit something with this tool we aren't taking actions,
+You're going to be at your own and we would be able to help, It's best to use other tools rather than this. You can use it and no one will stop you but beware, You're on your own.
 ```
 📚」 Welcome to Lunar Eclipse, Multi-Tool for discord and other things besides discord. This tool must be used responsibly, I will not take actions or help you once you do something. This was made purposely for fun & not meant to harm so please kindly use this at your risk.
 
